@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap");
+
+body {
+  font-family: Nunito Sans;
+}
+div.hero-section {
+  background: linear-gradient(to bottom, #fff5f8, #ffe2eb);
+  height: 1200px;
+  height: 665px;
+  display: flex;
+  gap: 50px;
+  flex-direction: column;
+  align-items: center;
+  border-bottom-left-radius: 150px;
+  border-bottom-right-radius: 150px;
+}
+
+div.hero-manicoro {
+  background-color: white;
+  gap: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  width: 1180px;
+  border: 1px solid;
+  border-radius: 150px;
+}
+
+div.manicure-bookings {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 220px;
+  width: 900px;
+}
+
+div.hero-phones {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 850px;
+}
+
+div.manicoro {
+  display: flex;
+  align-items: center;
+  height: 80px;
+  width: 200px;
+}
+
+div.hero-home {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 19px;
+  height: 80px;
+  width: 80px;
+}
+
+div.home-img {
+  position: absolute;
+  height: 5px;
+  width: 40px;
+}
+
+div.hero-business {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 19px;
+  height: 80px;
+  width: 80px;
+}
+
+div.download-now {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid;
+  color: white;
+  background-color: #d14872;
+  font-size: 19px;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+  height: 45px;
+  width: 180px;
+}
+
+div.blank-div {
+  height: 70px;
+  width: 400px;
+}
+
+div.m-b-h {
+  position: absolute;
+  top: -20px;
+  text-align: center;
+  height: 90px;
+  width: 900px;
+}
+
+div.m-b-p {
+  top: 80px;
+  position: absolute;
+  text-align: center;
+  height: 50px;
+  width: 900px;
+}
+
+div.get-the-app-section {
+  position: absolute;
+  top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  width: 900px;
+}
+
+div.get-the-app {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 164px;
+  border: 1px solid;
+  border-radius: 40px;
+  background-color: white;
+  font-size: 17px;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+
+p.m-b-para {
+  font-size: 17px;
+}
+
+div.get-the-app-img {
+  position: absolute;
+  right: 10px;
+  top: 9px;
+}
+
+p.get-the-app-p {
+  font-size: 17px;
+  position: absolute;
+  left: 16px;
+}
